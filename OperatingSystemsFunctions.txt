@@ -1,2 +1,3 @@
 Mobile operating system support: text, email, touch screens.
 it also support digital cameras, media players.
+it also uses lot of third party apps.
